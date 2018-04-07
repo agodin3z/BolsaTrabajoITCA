@@ -1,0 +1,11 @@
+<script type="text/javascript" src="<?= JS_URL ?>jquery.min.js"></script>
+<script type="text/javascript" src="<?= LIB_URL ?>jquery.counterup/jquery.counterup.min.js"></script>
+<script type="text/javascript" src="<?= LIB_URL ?>select2/dist/js/select2.min.js"></script>
+<script type="text/javascript" src="<?= LIB_URL ?>tinymce/tinymce.min.js"></script>
+<script type="text/javascript" src="<?= LIB_URL ?>parallax.js/parallax.min.js"></script>
+<script type="text/javascript" src="<?= LIB_URL ?>bootstrap/dist/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="<?= LIB_URL ?>owl.carousel/dist/owl.carousel.min.js"></script>
+<script type="text/javascript" src="<?= LIB_URL ?>waypoints/lib/jquery.waypoints.min.js"></script>
+<script type="text/javascript" src="<?= LIB_URL ?>sweetalert2/dist/sweetalert2.all.min.js"></script>
+<script type="text/javascript" src="<?= JS_URL ?>validator.js"></script>
+<script type="text/javascript" src="<?= JS_URL ?>scripts.js"></script>
