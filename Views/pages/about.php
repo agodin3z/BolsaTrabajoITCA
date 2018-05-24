@@ -36,9 +36,8 @@
                     </li>
                     <li class="active">
                       <h3>Encuentra un trabajo</h3>
-                      <p class="text-justify">Busca, encuentra y solicita empleos directamente desde nuestra
-                        plataforma. Administra todos los trabajos a los que haz aplicado desde
-                        un panel seguro y confiable.</p>
+                      <p class="text-justify">Busca, encuentra y aplica a todos los trabajos/empleos directamente desde nuestra
+                        plataforma.</p>
                     </li>
                     <li>
                       <h3>Aplica directamente </h3>
